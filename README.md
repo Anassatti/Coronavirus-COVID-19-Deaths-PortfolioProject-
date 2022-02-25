@@ -7,4 +7,4 @@ https://ourworldindata.org/covid-deaths
 
 **Visualization Tool**
 
-1.Tableau public
+ 1.Tableau public

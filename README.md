@@ -8,3 +8,8 @@ https://ourworldindata.org/covid-deaths
 **Visualization Tool**
 
  1.Tableau public
+ 
+ 
+ Dashboard
+ 
+https://public.tableau.com/app/profile/anas.satti/viz/CoronaVirusDashboard_16458764585000/Dashboard1?publish=yes

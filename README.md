@@ -10,6 +10,11 @@ https://ourworldindata.org/covid-deaths
  1.Tableau public
  
  
- Dashboard
+ **Dashboard**
  
+![image](https://user-images.githubusercontent.com/73906550/155842496-420d6c81-ffbc-4c6c-929c-29e3af95605f.png)
+
+Also available here
 https://public.tableau.com/app/profile/anas.satti/viz/CoronaVirusDashboard_16458764585000/Dashboard1?publish=yes
+
+

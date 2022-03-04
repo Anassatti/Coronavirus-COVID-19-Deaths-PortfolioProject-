@@ -18,3 +18,15 @@ Also available here
 https://public.tableau.com/app/profile/anas.satti/viz/CoronaVirusDashboard_16458764585000/Dashboard1?publish=yes
 
 
+**Dashboard2**
+
+This dashboard shows new cases comparison in  2022 in the four Arabic countries(Qatar, Saudi Arabia, Egypt, UAE); this dashboard contains an interactive map.
+
+![image](https://user-images.githubusercontent.com/73906550/156770964-8d65499d-226e-4f48-9252-b710c606176e.png)
+
+The dashbaord Avaliable here
+https://public.tableau.com/app/profile/anas.satti/viz/CoronaVirusDashboard_16458764585000/Dashboard2?publish=yes
+
+
+
+
